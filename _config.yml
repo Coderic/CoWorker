@@ -1,8 +1,8 @@
 title: Coderic CoWorker
-email: info@coderic.co.ve
+email: info@coderic.net
 description: Corporacion Orientada al Desarrollo Estratégico de Recursos de Información Comercial
 baseurl: ""
-url: "https://coworker.coderic.co.ve"
+url: "https://coworker.coderic.net"
 disqus: coderic
 google_analytics: UA-628256-11
 facebook:
@@ -15,7 +15,7 @@ logo: /images/logo43.png
 lang: es
 markdown: kramdown
 include: [_redirects, _headers]
-remote_theme: Coderic/coderic-theme
+remote_theme: Coderic/CodericTheme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
